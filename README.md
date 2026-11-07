@@ -13,8 +13,8 @@ Front-end criado com Vite+ (Vanilla JavaScript) e API em Express com a rota `GET
 1. Clone o repositório e entre na pasta:
 
    ```bash
-   git clone https://github.com/seu-usuario/suaong.git
-   cd suaong
+   git clone https://github.com/fabriciooorlando1985/ongproject.git
+   cd ongproject
    ```
 
 2. Instale as dependências:
